@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>numero_del_1_a_7_y_muestre_que_dia_es</RootNamespace>
+  </PropertyGroup>
+
+</Project>

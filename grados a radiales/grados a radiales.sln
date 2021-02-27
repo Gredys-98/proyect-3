@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grados a radiales", "grados a radiales.csproj", "{E44D655F-1AB9-4C04-BE2B-488DDB2077EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E44D655F-1AB9-4C04-BE2B-488DDB2077EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E44D655F-1AB9-4C04-BE2B-488DDB2077EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E44D655F-1AB9-4C04-BE2B-488DDB2077EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E44D655F-1AB9-4C04-BE2B-488DDB2077EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C01F6FE-3DDC-4EFB-B60D-2DE17CD26144}
+	EndGlobalSection
+EndGlobal

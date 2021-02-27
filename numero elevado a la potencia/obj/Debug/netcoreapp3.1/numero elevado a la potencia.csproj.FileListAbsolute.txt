@@ -1,0 +1,13 @@
+C:\Users\Gredy\proyecto # 2\numero elevado a la potencia\bin\Debug\netcoreapp3.1\numero elevado a la potencia.exe
+C:\Users\Gredy\proyecto # 2\numero elevado a la potencia\bin\Debug\netcoreapp3.1\numero elevado a la potencia.deps.json
+C:\Users\Gredy\proyecto # 2\numero elevado a la potencia\bin\Debug\netcoreapp3.1\numero elevado a la potencia.runtimeconfig.json
+C:\Users\Gredy\proyecto # 2\numero elevado a la potencia\bin\Debug\netcoreapp3.1\numero elevado a la potencia.runtimeconfig.dev.json
+C:\Users\Gredy\proyecto # 2\numero elevado a la potencia\bin\Debug\netcoreapp3.1\numero elevado a la potencia.dll
+C:\Users\Gredy\proyecto # 2\numero elevado a la potencia\bin\Debug\netcoreapp3.1\numero elevado a la potencia.pdb
+C:\Users\Gredy\proyecto # 2\numero elevado a la potencia\obj\Debug\netcoreapp3.1\numero elevado a la potencia.csprojAssemblyReference.cache
+C:\Users\Gredy\proyecto # 2\numero elevado a la potencia\obj\Debug\netcoreapp3.1\numero elevado a la potencia.AssemblyInfoInputs.cache
+C:\Users\Gredy\proyecto # 2\numero elevado a la potencia\obj\Debug\netcoreapp3.1\numero elevado a la potencia.AssemblyInfo.cs
+C:\Users\Gredy\proyecto # 2\numero elevado a la potencia\obj\Debug\netcoreapp3.1\numero elevado a la potencia.csproj.CoreCompileInputs.cache
+C:\Users\Gredy\proyecto # 2\numero elevado a la potencia\obj\Debug\netcoreapp3.1\numero elevado a la potencia.dll
+C:\Users\Gredy\proyecto # 2\numero elevado a la potencia\obj\Debug\netcoreapp3.1\numero elevado a la potencia.pdb
+C:\Users\Gredy\proyecto # 2\numero elevado a la potencia\obj\Debug\netcoreapp3.1\numero elevado a la potencia.genruntimeconfig.cache

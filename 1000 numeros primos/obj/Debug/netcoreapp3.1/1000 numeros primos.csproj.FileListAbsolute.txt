@@ -1,0 +1,13 @@
+C:\Users\Gredy\proyecto # 2\1000 numeros primos\bin\Debug\netcoreapp3.1\1000 numeros primos.exe
+C:\Users\Gredy\proyecto # 2\1000 numeros primos\bin\Debug\netcoreapp3.1\1000 numeros primos.deps.json
+C:\Users\Gredy\proyecto # 2\1000 numeros primos\bin\Debug\netcoreapp3.1\1000 numeros primos.runtimeconfig.json
+C:\Users\Gredy\proyecto # 2\1000 numeros primos\bin\Debug\netcoreapp3.1\1000 numeros primos.runtimeconfig.dev.json
+C:\Users\Gredy\proyecto # 2\1000 numeros primos\bin\Debug\netcoreapp3.1\1000 numeros primos.dll
+C:\Users\Gredy\proyecto # 2\1000 numeros primos\bin\Debug\netcoreapp3.1\1000 numeros primos.pdb
+C:\Users\Gredy\proyecto # 2\1000 numeros primos\obj\Debug\netcoreapp3.1\1000 numeros primos.csprojAssemblyReference.cache
+C:\Users\Gredy\proyecto # 2\1000 numeros primos\obj\Debug\netcoreapp3.1\1000 numeros primos.AssemblyInfoInputs.cache
+C:\Users\Gredy\proyecto # 2\1000 numeros primos\obj\Debug\netcoreapp3.1\1000 numeros primos.AssemblyInfo.cs
+C:\Users\Gredy\proyecto # 2\1000 numeros primos\obj\Debug\netcoreapp3.1\1000 numeros primos.csproj.CoreCompileInputs.cache
+C:\Users\Gredy\proyecto # 2\1000 numeros primos\obj\Debug\netcoreapp3.1\1000 numeros primos.dll
+C:\Users\Gredy\proyecto # 2\1000 numeros primos\obj\Debug\netcoreapp3.1\1000 numeros primos.pdb
+C:\Users\Gredy\proyecto # 2\1000 numeros primos\obj\Debug\netcoreapp3.1\1000 numeros primos.genruntimeconfig.cache

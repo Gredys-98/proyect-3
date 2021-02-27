@@ -1,0 +1,13 @@
+C:\Users\Gredy\proyecto # 2\numero del 1 a 7 y muestre que dia es\bin\Debug\netcoreapp3.1\numero del 1 a 7 y muestre que dia es.exe
+C:\Users\Gredy\proyecto # 2\numero del 1 a 7 y muestre que dia es\bin\Debug\netcoreapp3.1\numero del 1 a 7 y muestre que dia es.deps.json
+C:\Users\Gredy\proyecto # 2\numero del 1 a 7 y muestre que dia es\bin\Debug\netcoreapp3.1\numero del 1 a 7 y muestre que dia es.runtimeconfig.json
+C:\Users\Gredy\proyecto # 2\numero del 1 a 7 y muestre que dia es\bin\Debug\netcoreapp3.1\numero del 1 a 7 y muestre que dia es.runtimeconfig.dev.json
+C:\Users\Gredy\proyecto # 2\numero del 1 a 7 y muestre que dia es\bin\Debug\netcoreapp3.1\numero del 1 a 7 y muestre que dia es.dll
+C:\Users\Gredy\proyecto # 2\numero del 1 a 7 y muestre que dia es\bin\Debug\netcoreapp3.1\numero del 1 a 7 y muestre que dia es.pdb
+C:\Users\Gredy\proyecto # 2\numero del 1 a 7 y muestre que dia es\obj\Debug\netcoreapp3.1\numero del 1 a 7 y muestre que dia es.csprojAssemblyReference.cache
+C:\Users\Gredy\proyecto # 2\numero del 1 a 7 y muestre que dia es\obj\Debug\netcoreapp3.1\numero del 1 a 7 y muestre que dia es.AssemblyInfoInputs.cache
+C:\Users\Gredy\proyecto # 2\numero del 1 a 7 y muestre que dia es\obj\Debug\netcoreapp3.1\numero del 1 a 7 y muestre que dia es.AssemblyInfo.cs
+C:\Users\Gredy\proyecto # 2\numero del 1 a 7 y muestre que dia es\obj\Debug\netcoreapp3.1\numero del 1 a 7 y muestre que dia es.csproj.CoreCompileInputs.cache
+C:\Users\Gredy\proyecto # 2\numero del 1 a 7 y muestre que dia es\obj\Debug\netcoreapp3.1\numero del 1 a 7 y muestre que dia es.dll
+C:\Users\Gredy\proyecto # 2\numero del 1 a 7 y muestre que dia es\obj\Debug\netcoreapp3.1\numero del 1 a 7 y muestre que dia es.pdb
+C:\Users\Gredy\proyecto # 2\numero del 1 a 7 y muestre que dia es\obj\Debug\netcoreapp3.1\numero del 1 a 7 y muestre que dia es.genruntimeconfig.cache

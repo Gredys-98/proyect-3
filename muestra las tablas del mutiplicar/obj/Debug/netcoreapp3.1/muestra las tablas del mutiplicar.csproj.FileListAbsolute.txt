@@ -1,0 +1,13 @@
+C:\Users\Gredy\proyecto # 2\muestra las tablas del mutiplicar\bin\Debug\netcoreapp3.1\muestra las tablas del mutiplicar.exe
+C:\Users\Gredy\proyecto # 2\muestra las tablas del mutiplicar\bin\Debug\netcoreapp3.1\muestra las tablas del mutiplicar.deps.json
+C:\Users\Gredy\proyecto # 2\muestra las tablas del mutiplicar\bin\Debug\netcoreapp3.1\muestra las tablas del mutiplicar.runtimeconfig.json
+C:\Users\Gredy\proyecto # 2\muestra las tablas del mutiplicar\bin\Debug\netcoreapp3.1\muestra las tablas del mutiplicar.runtimeconfig.dev.json
+C:\Users\Gredy\proyecto # 2\muestra las tablas del mutiplicar\bin\Debug\netcoreapp3.1\muestra las tablas del mutiplicar.dll
+C:\Users\Gredy\proyecto # 2\muestra las tablas del mutiplicar\bin\Debug\netcoreapp3.1\muestra las tablas del mutiplicar.pdb
+C:\Users\Gredy\proyecto # 2\muestra las tablas del mutiplicar\obj\Debug\netcoreapp3.1\muestra las tablas del mutiplicar.csprojAssemblyReference.cache
+C:\Users\Gredy\proyecto # 2\muestra las tablas del mutiplicar\obj\Debug\netcoreapp3.1\muestra las tablas del mutiplicar.AssemblyInfoInputs.cache
+C:\Users\Gredy\proyecto # 2\muestra las tablas del mutiplicar\obj\Debug\netcoreapp3.1\muestra las tablas del mutiplicar.AssemblyInfo.cs
+C:\Users\Gredy\proyecto # 2\muestra las tablas del mutiplicar\obj\Debug\netcoreapp3.1\muestra las tablas del mutiplicar.csproj.CoreCompileInputs.cache
+C:\Users\Gredy\proyecto # 2\muestra las tablas del mutiplicar\obj\Debug\netcoreapp3.1\muestra las tablas del mutiplicar.dll
+C:\Users\Gredy\proyecto # 2\muestra las tablas del mutiplicar\obj\Debug\netcoreapp3.1\muestra las tablas del mutiplicar.pdb
+C:\Users\Gredy\proyecto # 2\muestra las tablas del mutiplicar\obj\Debug\netcoreapp3.1\muestra las tablas del mutiplicar.genruntimeconfig.cache

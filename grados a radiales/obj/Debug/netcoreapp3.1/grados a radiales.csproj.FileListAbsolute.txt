@@ -1,0 +1,13 @@
+C:\Users\Gredy\proyecto # 2\grados a radiales\bin\Debug\netcoreapp3.1\grados a radiales.exe
+C:\Users\Gredy\proyecto # 2\grados a radiales\bin\Debug\netcoreapp3.1\grados a radiales.deps.json
+C:\Users\Gredy\proyecto # 2\grados a radiales\bin\Debug\netcoreapp3.1\grados a radiales.runtimeconfig.json
+C:\Users\Gredy\proyecto # 2\grados a radiales\bin\Debug\netcoreapp3.1\grados a radiales.runtimeconfig.dev.json
+C:\Users\Gredy\proyecto # 2\grados a radiales\bin\Debug\netcoreapp3.1\grados a radiales.dll
+C:\Users\Gredy\proyecto # 2\grados a radiales\bin\Debug\netcoreapp3.1\grados a radiales.pdb
+C:\Users\Gredy\proyecto # 2\grados a radiales\obj\Debug\netcoreapp3.1\grados a radiales.csprojAssemblyReference.cache
+C:\Users\Gredy\proyecto # 2\grados a radiales\obj\Debug\netcoreapp3.1\grados a radiales.AssemblyInfoInputs.cache
+C:\Users\Gredy\proyecto # 2\grados a radiales\obj\Debug\netcoreapp3.1\grados a radiales.AssemblyInfo.cs
+C:\Users\Gredy\proyecto # 2\grados a radiales\obj\Debug\netcoreapp3.1\grados a radiales.csproj.CoreCompileInputs.cache
+C:\Users\Gredy\proyecto # 2\grados a radiales\obj\Debug\netcoreapp3.1\grados a radiales.dll
+C:\Users\Gredy\proyecto # 2\grados a radiales\obj\Debug\netcoreapp3.1\grados a radiales.pdb
+C:\Users\Gredy\proyecto # 2\grados a radiales\obj\Debug\netcoreapp3.1\grados a radiales.genruntimeconfig.cache
